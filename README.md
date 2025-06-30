@@ -45,6 +45,9 @@ Category-wise nutrition summaries
 
 📷 Dashboard Preview
 (Insert a screenshot of your Power BI dashboard here)
+
 ![Screenshot 2025-06-30 124720](https://github.com/user-attachments/assets/6c67db1e-b387-4deb-8646-58598587882a)
+
+
 ![Screenshot 2025-06-30 124736](https://github.com/user-attachments/assets/1724bc72-69f1-4f60-9211-484b05c34110)
 
